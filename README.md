@@ -2,8 +2,8 @@
 
 # For support and training 
 ## Please Contact
-Epignosis Center
-Joan Mouba, PhD 
+Epignosis Center \
+Joan Mouba, PhD \
 joan.mouba@gmail.com 
 
 ## Comprehensive Experiences 
@@ -12,4 +12,4 @@ joan.mouba@gmail.com
 + Infrared Remote Control Driving
 + Autonomous Obstacle Avoidance 
 + Autonomous Ultrasonic Following
- 
+

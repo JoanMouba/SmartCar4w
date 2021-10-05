@@ -13,7 +13,7 @@
 #define ML_PWM_B_pin 5 // define the PWM control pin of B motor 
 
 const int car_speed = 150; 
-const int curve_car_speed = 2530; 
+const int curve_car_speed = 200; 
 const int led_pin = 3;
 const int L_pin = 6; // pin of left line tracking sensor 
 const int M_pin = 7;  // pin of middle line tracking sensor
